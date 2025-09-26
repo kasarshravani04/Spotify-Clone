@@ -1,4 +1,4 @@
-This project is a Spotify Clone built using HTML, CSS, JavaScript, and Bootstrap to replicate the core UI and functionality of Spotify's web player. It includes key features like a music player, playlists, and a responsive design that works across different screen sizes.
+This project is a Spotify Clone built using HTML, CSS and Bootstrap to replicate the core UI and functionality of Spotify's web player. It includes key features like a music player, playlists, and a responsive design that works across different screen sizes.
 
 Key Features<br>
 
