@@ -9,7 +9,7 @@ Key Features<br>
 ✅ Dark Theme – Mimics Spotify's dark color scheme for a sleek look.<br>
 
 Technologies Used
-Frontend: HTML5, CSS3, JavaScript<br>
+Frontend: HTML5, CSS3<br>
 
 Framework: Bootstrap (for responsive grids, components, and styling)<br>
 
